@@ -52,11 +52,11 @@ client.on("ready", () => {
 
 client.on('ready' , () => {
 
-var join = client.channels.get("id voice")/// ئاید ڤۆیس
+var join = client.channels.get("867499397158797322")/// ئاید ڤۆیس
 
 if (join) join.join()
 
 })
 
-client.login("");
+client.login("ODg0Mzk4ODk1Mjk0MTkzNjc0.YUn6iA.JGEO61TQUX7ewny9hqXFvdIeQgs");
 
